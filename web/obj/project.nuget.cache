@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RXOLa9gkW+hKlDkjIYoQq9Zpwbp7tXPt7Uc/eBFh4uBxJzwW9ZhANruKVMNJ1vITJBoK2GQ/T+MpA+51Cbn7g==",
+  "success": true,
+  "projectFilePath": "E:\\hoc2\\framework\\firstWeb\\firstWeb\\firstWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysql.data\\6.10.9\\mysql.data.6.10.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\4.4.1\\system.security.permissions.4.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

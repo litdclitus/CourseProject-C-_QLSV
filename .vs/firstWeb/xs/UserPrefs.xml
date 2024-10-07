@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A30E5ADF-8E1E-42C4-8644-A44FC1CA6450}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstWeb/Views/BoMon/EnterBoMon.cshtml">
+    <Files>
+      <File FileName="firstWeb/Views/Shared/_Layout.cshtml" Line="39" Column="116" />
+      <File FileName="firstWeb/Controllers/BoMonController.cs" Line="22" Column="41" />
+      <File FileName="firstWeb/Views/BoMon/EnterBoMon.cshtml" Line="13" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstWeb" expanded="True">
+            <Node name="firstWeb" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="BoMon" expanded="True">
+                  <Node name="EnterBoMon.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.firstWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
